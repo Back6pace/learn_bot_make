@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 import random
 
-token_bot = '7039241340:AAGkOk1b5XgaktCwla3eEJ43pJse5KDYHg4'
+token_bot = 'bottoken'
 
 # Создаем объекты бота и диспетчера
 bot = Bot(token_bot)
